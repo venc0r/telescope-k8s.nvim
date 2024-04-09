@@ -1,0 +1,1 @@
+# telescope-k8s.nvim
