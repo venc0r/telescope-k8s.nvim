@@ -10,5 +10,5 @@ require('telescope').load_extension('telescope_k8s')
 
 
 ```vim
-:telescope teleescope_k8 show_pods
+:Telescope telescope_k8s show_pods
 ```
